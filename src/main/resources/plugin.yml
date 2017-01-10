@@ -1,0 +1,14 @@
+name: Barrage
+version: 1.0
+main: net.barrage.main.Barrage
+author: Zyenax
+depend: [NecroCore]
+commands:
+  level:
+    description: Set a users level for that specified game!
+  xp:
+    description: Set a users xp for that specified game!
+  coins:
+    description: Set a users coins for that specified game!
+  meteorites:
+    description: Set a users meteorites for that specified game!
